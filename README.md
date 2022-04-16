@@ -14,13 +14,13 @@ Copy Build apk file and install
 <img src="https://user-images.githubusercontent.com/5182674/36055678-052de01c-0e24-11e8-8d81-4c558ffee181.jpg"/>
 
 
-Contributors:-
+# Contributors:-
 1. Parthib Ray
 2. Kishore Reddy
 3. Preethika Balchander
 4. Sai Avinash
 
-Resources used:-
+# Resources used:-
 
 1.Unity
 
